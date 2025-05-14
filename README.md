@@ -1,4 +1,8 @@
 # 🧾 **CREDIT RISK DATA WAREHOUSE & SQL ANALYSIS PROJECT**
+## 📸 Dashboard Preview
+![Credit_Dashboard](https://github.com/user-attachments/assets/f57d42f4-8092-408f-a124-453e1fcaa776)
+
+![Credit Dashboard](https://github.com/user-attachments/assets/ce8e3828-39eb-4a7e-84c2-84714804d027)
 
 📌 Project Overview:
 This project showcases how to transform raw credit and application data into a star schema-based data warehouse using SQL Server, followed by advanced analytical querying for credit behavior analysis.
@@ -90,3 +94,6 @@ application_record: Contains demographic and financial data of applicants
 credit_record: Contains monthly credit status for each applicant
 
 Data source: Open Credit Scoring Dataset (commonly used in ML and BI training).
+
+
+
